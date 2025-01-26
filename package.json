@@ -1,0 +1,6 @@
+{
+      "name": "pong",
+      "scripts": {
+        "dev": "node main.js"
+      }
+    }
